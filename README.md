@@ -8,7 +8,7 @@ Click [Here to see the Live Demo][live] of RL algorithm relationships.
 
 [![](preview.png)][live]
 
-[live]: https://intuitive-theory.com/assets/html/rl-graph/
+[live]: https://j3soon.github.io/directed-graph-visualization/
 
 **Features**
 
